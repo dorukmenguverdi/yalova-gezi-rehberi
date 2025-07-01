@@ -10,6 +10,5 @@ Bu proje, Yalova'nın doğal ve tarihi güzelliklerini tanıtmak için geliştir
 
 - Kategoriye göre filtreleme (Doğa, Tarih, Kaplıca vs.)
 - Google Maps bağlantıları
-- Responsive (mobil uyumlu) tasarım
 - Görsellerle zenginleştirilmiş yer kartları
 - Genişletilebilir veri yapısı
