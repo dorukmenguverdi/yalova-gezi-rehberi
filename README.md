@@ -4,7 +4,7 @@ Bu proje, Yalova'nın doğal ve tarihi güzelliklerini tanıtmak için geliştir
 
 ## 🖼️ Önizleme
 
-![Yalova Gezi Rehberi Ekran Görüntüsü](genelGoruntu.png)
+![Yalova Gezi Rehberi Ekran Görüntüsü](images/genelGoruntu.png)
 
 ## 🚀 Özellikler
 
